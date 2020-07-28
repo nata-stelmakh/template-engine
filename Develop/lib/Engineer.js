@@ -19,11 +19,11 @@ class Engineer extends Employee{
         super(name,email,id,role);
         this.role= 'Engineer'
     }
-    //returning the name
+    //returning the github user name
     getGitHubName(){
         return this.githubname;
     }
-    //returning the email
+    //returning the github
     getGitHub(){
         return this.githublink;
     }

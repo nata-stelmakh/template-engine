@@ -11,5 +11,13 @@ class Manager extends Employee{
         this.role= 'Manager'
         this.officeNumber =officeNumber;
     }
+    //returning the github user name
+    getGitHubName(){
+        return this.githubname;
+    }
+    //returning the github
+    getGitHub(){
+        return this.githublink;
+    }
        }
 let employee =new Manager;
