@@ -1,13 +1,13 @@
  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-  link to a video that demonstrates app functionality
-  
-  https://drive.google.com/file/d/1wJbUxBE29dOEGVJgyiRPtR_E7BQ121Cw/view 
-  
+ 
+ 
   # Team Profile Generator
   ## nata-stelmakh
-  ![](img/1.png)
+   link to a video that demonstrates app functionality
+  https://drive.google.com/file/d/1wJbUxBE29dOEGVJgyiRPtR_E7BQ121Cw/view 
+  
+  ![](img/1..png)
   ## Description 
   
   This CLI application, that designed to help create a team of developers.The goal is to make manager's life easier , when assigning people to teams.Application generates a webpage, that displays team's basic info
