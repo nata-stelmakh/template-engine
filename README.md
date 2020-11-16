@@ -1,6 +1,8 @@
  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   link to a video that demonstrates app functionality
+  
   https://drive.google.com/file/d/1wJbUxBE29dOEGVJgyiRPtR_E7BQ121Cw/view 
   
   # Team Profile Generator
